@@ -1,0 +1,7 @@
+scenario,model,n,n_groups,prevalence_committed,roc_auc,pr_auc,brier,validation,data_provenance
+normal,logreg_C3star_only,4800,8,0.5529166666666666,0.9210525391696298,0.9023913766241796,0.10930427071266971,GroupKFold leave-one-pulse-duration-out,SIMULATED
+normal,logreg_all_species,4800,8,0.5529166666666666,0.9380254601716026,0.9316807861572622,0.08588471988291632,GroupKFold leave-one-pulse-duration-out,SIMULATED
+normal,random_forest_all_species,4800,8,0.5529166666666666,0.9915545368927381,0.9932393845770916,0.03784222199509724,GroupKFold leave-one-pulse-duration-out,SIMULATED
+tumor_XIAP_x2,logreg_C3star_only,4800,8,0.0375,0.9895767195767196,0.7099226806349668,0.01884279399911613,GroupKFold leave-one-pulse-duration-out,SIMULATED
+tumor_XIAP_x2,logreg_all_species,4800,8,0.0375,0.9919276094276094,0.7845395617310921,0.014999304008524828,GroupKFold leave-one-pulse-duration-out,SIMULATED
+tumor_XIAP_x2,random_forest_all_species,4800,8,0.0375,0.9968145743145743,0.9207374192954254,0.008824314440529744,GroupKFold leave-one-pulse-duration-out,SIMULATED

@@ -1,0 +1,2 @@
+regime,c8_threshold_uM,survivor_cytc_release_peak_pct,survivor_c3_peak_uM,death_c3_steady_uM,survivor_c3_peak_pct_of_death,death_cytc_release_final_pct,data_provenance
+threshold,5.281414778124206e-05,14.519810045104343,5.794829365251564e-06,0.005654988320221842,0.10247287946695947,83.2527007953479,SIMULATED

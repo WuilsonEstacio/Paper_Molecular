@@ -1,0 +1,355 @@
+{
+  "data_provenance": "SIMULATED",
+  "model": "Legewie2006 BIOMD0000000102 (WT) / 103 (NC)",
+  "fate_threshold_nM": 5.0,
+  "seed": 42,
+  "E1": {
+    "WT_c3_after_full_withdrawal_nM": 48.14327975084837,
+    "NC_c3_after_full_withdrawal_nM": 0.028736697312775537
+  },
+  "E2": [
+    {
+      "stimulus_nM_s": 0.0025,
+      "apaf_plateau_nM": 2.5,
+      "T_star_min": null,
+      "survivor_c3_at_withdrawal_nM": NaN,
+      "survivor_c3_peak_nM": NaN,
+      "survivor_c3_peak_pct_total": NaN,
+      "survivor_exposure_nM_min": NaN,
+      "committed_c3_final_nM": NaN
+    },
+    {
+      "stimulus_nM_s": 0.004,
+      "apaf_plateau_nM": 4.0,
+      "T_star_min": 107.2705078125,
+      "survivor_c3_at_withdrawal_nM": 2.070753284196964,
+      "survivor_c3_peak_nM": 5.425758201247822,
+      "survivor_c3_peak_pct_total": 2.712879100623911,
+      "survivor_exposure_nM_min": 492.10330124472495,
+      "committed_c3_final_nM": 48.14327975100385
+    },
+    {
+      "stimulus_nM_s": 0.005,
+      "apaf_plateau_nM": 5.0,
+      "T_star_min": 68.90625,
+      "survivor_c3_at_withdrawal_nM": 1.7365725077282559,
+      "survivor_c3_peak_nM": 4.827228076379667,
+      "survivor_c3_peak_pct_total": 2.4136140381898334,
+      "survivor_exposure_nM_min": 395.9507704112453,
+      "committed_c3_final_nM": 48.14327975084657
+    },
+    {
+      "stimulus_nM_s": 0.0075,
+      "apaf_plateau_nM": 7.5,
+      "T_star_min": 38.935546875,
+      "survivor_c3_at_withdrawal_nM": 1.270254189477747,
+      "survivor_c3_peak_nM": 4.238762789606593,
+      "survivor_c3_peak_pct_total": 2.1193813948032965,
+      "survivor_exposure_nM_min": 326.66066343371836,
+      "committed_c3_final_nM": 48.14327975193399
+    },
+    {
+      "stimulus_nM_s": 0.01,
+      "apaf_plateau_nM": 10.0,
+      "T_star_min": 27.8173828125,
+      "survivor_c3_at_withdrawal_nM": 1.0394231387617034,
+      "survivor_c3_peak_nM": 4.3637718537991335,
+      "survivor_c3_peak_pct_total": 2.1818859268995667,
+      "survivor_exposure_nM_min": 335.0510958124723,
+      "committed_c3_final_nM": 48.14327975084987
+    },
+    {
+      "stimulus_nM_s": 0.015,
+      "apaf_plateau_nM": 15.0,
+      "T_star_min": 17.9736328125,
+      "survivor_c3_at_withdrawal_nM": 0.8080824066907714,
+      "survivor_c3_peak_nM": 4.0130487478241825,
+      "survivor_c3_peak_pct_total": 2.0065243739120913,
+      "survivor_exposure_nM_min": 302.9135117651677,
+      "committed_c3_final_nM": 48.14327975079173
+    },
+    {
+      "stimulus_nM_s": 0.02,
+      "apaf_plateau_nM": 20.0,
+      "T_star_min": 13.359375,
+      "survivor_c3_at_withdrawal_nM": 0.6936442003529392,
+      "survivor_c3_peak_nM": 3.714390575870975,
+      "survivor_c3_peak_pct_total": 1.8571952879354876,
+      "survivor_exposure_nM_min": 279.0661377055883,
+      "committed_c3_final_nM": 48.14327975084838
+    },
+    {
+      "stimulus_nM_s": 0.03,
+      "apaf_plateau_nM": 30.0,
+      "T_star_min": 8.876953125,
+      "survivor_c3_at_withdrawal_nM": 0.5799901567891323,
+      "survivor_c3_peak_nM": 3.432094169839581,
+      "survivor_c3_peak_pct_total": 1.7160470849197904,
+      "survivor_exposure_nM_min": 258.49072045680595,
+      "committed_c3_final_nM": 48.14327975084545
+    },
+    {
+      "stimulus_nM_s": 0.04,
+      "apaf_plateau_nM": 40.0,
+      "T_star_min": 6.6357421875,
+      "survivor_c3_at_withdrawal_nM": 0.5190136110973561,
+      "survivor_c3_peak_nM": 2.779163832587708,
+      "survivor_c3_peak_pct_total": 1.3895819162938539,
+      "survivor_exposure_nM_min": 217.54596771854193,
+      "committed_c3_final_nM": 48.14327975085502
+    },
+    {
+      "stimulus_nM_s": 0.06,
+      "apaf_plateau_nM": 60.0,
+      "T_star_min": 4.4384765625,
+      "survivor_c3_at_withdrawal_nM": 0.45810907232824055,
+      "survivor_c3_peak_nM": 2.55264737245648,
+      "survivor_c3_peak_pct_total": 1.27632368622824,
+      "survivor_exposure_nM_min": 204.81684327805604,
+      "committed_c3_final_nM": 48.143279750706995
+    },
+    {
+      "stimulus_nM_s": 0.08,
+      "apaf_plateau_nM": 80.0,
+      "T_star_min": 3.33984375,
+      "survivor_c3_at_withdrawal_nM": 0.42357192361865925,
+      "survivor_c3_peak_nM": 2.369736075711103,
+      "survivor_c3_peak_pct_total": 1.1848680378555514,
+      "survivor_exposure_nM_min": 195.116957414866,
+      "committed_c3_final_nM": 48.143279751567725
+    }
+  ],
+  "E3_baseline": {
+    "c3_rest_nM": 0.058355543015421965,
+    "c3_sustained_stimulus_nM": 149.4841282285445,
+    "c3_after_withdrawal_nM": 48.14327975085025,
+    "irreversible": true,
+    "T_star_min": 13.359375,
+    "regime": "irreversible_PNR",
+    "survivor_c3_peak_nM": 2.8468213412720784,
+    "survivor_c3_peak_pct_total": 1.4234106706360392
+  },
+  "E3b": {
+    "n": 1500,
+    "regime_counts": {
+      "irreversible_PNR": 257,
+      "irreversible_not_reached": 4,
+      "reversible_activated": 311,
+      "no_activation": 423,
+      "spontaneous_death": 505
+    },
+    "pnr_window_pct_quantiles": {
+      "0.5": 0.55,
+      "0.9": 3.42,
+      "0.99": 11.21,
+      "1.0": 19.41
+    },
+    "pnr_sets_with_window_over_10pct": 5,
+    "reversible_window_pct_median": 46.73074131800093
+  },
+  "E4_survival": [
+    {
+      "scenario": "normal",
+      "pulse_min": 5,
+      "committed": 0.23,
+      "never_activated": 0.7316666666666667,
+      "recovered_after_activation": 0.03833333333333333,
+      "fraction_survivors": 0.77
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 10,
+      "committed": 0.4083333333333333,
+      "never_activated": 0.5583333333333333,
+      "recovered_after_activation": 0.03333333333333333,
+      "fraction_survivors": 0.5916666666666667
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 15,
+      "committed": 0.5016666666666667,
+      "never_activated": 0.44333333333333336,
+      "recovered_after_activation": 0.055,
+      "fraction_survivors": 0.4983333333333333
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 20,
+      "committed": 0.5783333333333334,
+      "never_activated": 0.365,
+      "recovered_after_activation": 0.056666666666666664,
+      "fraction_survivors": 0.42166666666666663
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 30,
+      "committed": 0.65,
+      "never_activated": 0.25666666666666665,
+      "recovered_after_activation": 0.09333333333333334,
+      "fraction_survivors": 0.35
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 45,
+      "committed": 0.6783333333333333,
+      "never_activated": 0.17833333333333334,
+      "recovered_after_activation": 0.14333333333333334,
+      "fraction_survivors": 0.32166666666666666
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 60,
+      "committed": 0.6866666666666666,
+      "never_activated": 0.14166666666666666,
+      "recovered_after_activation": 0.17166666666666666,
+      "fraction_survivors": 0.31333333333333335
+    },
+    {
+      "scenario": "normal",
+      "pulse_min": 90,
+      "committed": 0.69,
+      "never_activated": 0.09833333333333333,
+      "recovered_after_activation": 0.21166666666666667,
+      "fraction_survivors": 0.31000000000000005
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 5,
+      "committed": 0.0033333333333333335,
+      "never_activated": 0.9966666666666667,
+      "recovered_after_activation": 0.0,
+      "fraction_survivors": 0.9966666666666667
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 10,
+      "committed": 0.005,
+      "never_activated": 0.9916666666666667,
+      "recovered_after_activation": 0.0033333333333333335,
+      "fraction_survivors": 0.995
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 15,
+      "committed": 0.013333333333333334,
+      "never_activated": 0.985,
+      "recovered_after_activation": 0.0016666666666666668,
+      "fraction_survivors": 0.9866666666666667
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 20,
+      "committed": 0.018333333333333333,
+      "never_activated": 0.9733333333333334,
+      "recovered_after_activation": 0.008333333333333333,
+      "fraction_survivors": 0.9816666666666667
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 30,
+      "committed": 0.041666666666666664,
+      "never_activated": 0.9416666666666667,
+      "recovered_after_activation": 0.016666666666666666,
+      "fraction_survivors": 0.9583333333333334
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 45,
+      "committed": 0.06166666666666667,
+      "never_activated": 0.905,
+      "recovered_after_activation": 0.03333333333333333,
+      "fraction_survivors": 0.9383333333333334
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 60,
+      "committed": 0.07333333333333333,
+      "never_activated": 0.8783333333333333,
+      "recovered_after_activation": 0.04833333333333333,
+      "fraction_survivors": 0.9266666666666666
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "pulse_min": 90,
+      "committed": 0.08333333333333333,
+      "never_activated": 0.825,
+      "recovered_after_activation": 0.09166666666666666,
+      "fraction_survivors": 0.9166666666666666
+    }
+  ],
+  "E5": [
+    {
+      "scenario": "normal",
+      "model": "logreg_C3star_only",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.5529166666666666,
+      "roc_auc": 0.9210525391696298,
+      "pr_auc": 0.9023913766241796,
+      "brier": 0.10930427071266971,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "scenario": "normal",
+      "model": "logreg_all_species",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.5529166666666666,
+      "roc_auc": 0.9380254601716026,
+      "pr_auc": 0.9316807861572622,
+      "brier": 0.08588471988291632,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "scenario": "normal",
+      "model": "random_forest_all_species",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.5529166666666666,
+      "roc_auc": 0.9915545368927381,
+      "pr_auc": 0.9932393845770916,
+      "brier": 0.03784222199509724,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "model": "logreg_C3star_only",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.0375,
+      "roc_auc": 0.9895767195767196,
+      "pr_auc": 0.7099226806349668,
+      "brier": 0.01884279399911613,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "model": "logreg_all_species",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.0375,
+      "roc_auc": 0.9919276094276094,
+      "pr_auc": 0.7845395617310921,
+      "brier": 0.014999304008524828,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "scenario": "tumor_XIAP_x2",
+      "model": "random_forest_all_species",
+      "n": 4800,
+      "n_groups": 8,
+      "prevalence_committed": 0.0375,
+      "roc_auc": 0.9968145743145743,
+      "pr_auc": 0.9207374192954254,
+      "brier": 0.008824314440529744,
+      "validation": "GroupKFold leave-one-pulse-duration-out",
+      "data_provenance": "SIMULATED"
+    }
+  ],
+  "runtime_s": 262.3
+}

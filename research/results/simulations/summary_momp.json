@@ -1,0 +1,509 @@
+{
+  "data_provenance": "SIMULATED",
+  "death_c3_threshold_uM": 0.0001,
+  "horizon_s": 1000000.0,
+  "seed": 44,
+  "M0": [
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 0.1,
+      "tBid_at_inhibition": 0.0014299680475247521,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 4.5817080683691855e-09,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 0.25,
+      "tBid_at_inhibition": 0.024781672983344574,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 1.5119509990000386e-07,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 0.5,
+      "tBid_at_inhibition": 0.18614380561804572,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 7.39674037558134e-05,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 1.0,
+      "tBid_at_inhibition": 1.325218096014733,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 0.2933635401698603,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 1.5,
+      "tBid_at_inhibition": 4.215993421920111,
+      "cytc_released_at_inhibition_pct": 1.1102230246251565e-13,
+      "death_time_h": 66.31957989497374,
+      "cPARP_frac_at_96h": 0.5113292520984831,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 2.0,
+      "tBid_at_inhibition": 9.75715342958507,
+      "cytc_released_at_inhibition_pct": 1.7053025658242404e-11,
+      "death_time_h": 35.58989747436859,
+      "cPARP_frac_at_96h": 0.7983710740763269,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 2.5,
+      "tBid_at_inhibition": 19.041009846989784,
+      "cytc_released_at_inhibition_pct": 8.435141474194552e-10,
+      "death_time_h": 23.51937984496124,
+      "cPARP_frac_at_96h": 0.952207617100988,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 3.0,
+      "tBid_at_inhibition": 33.46086535243592,
+      "cytc_released_at_inhibition_pct": 2.2937207688755734e-08,
+      "death_time_h": 16.88372093023256,
+      "cPARP_frac_at_96h": 0.9909902189978226,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 100.0,
+      "untreated_death_h": 6.816666666666666,
+      "inhibitor_time_h": 3.25,
+      "tBid_at_inhibition": 43.15239697147191,
+      "cytc_released_at_inhibition_pct": 1.0273889516909662e-07,
+      "death_time_h": 14.661102775693923,
+      "cPARP_frac_at_96h": 0.9959714702337766,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 0.1,
+      "tBid_at_inhibition": 0.03935789963441222,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 1.2910211217723656e-07,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 0.25,
+      "tBid_at_inhibition": 0.6108548954075477,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 0.0017948211891366712,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 0.5,
+      "tBid_at_inhibition": 4.053052841337938,
+      "cytc_released_at_inhibition_pct": 0.0,
+      "death_time_h": null,
+      "cPARP_frac_at_96h": 0.39708791041862235,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 1.0,
+      "tBid_at_inhibition": 25.638561997594245,
+      "cytc_released_at_inhibition_pct": 3.0664359940146824e-11,
+      "death_time_h": 22.356589147286822,
+      "cPARP_frac_at_96h": 0.9523209350405912,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 1.5,
+      "tBid_at_inhibition": 79.01521143997819,
+      "cytc_released_at_inhibition_pct": 2.1340651468193528e-08,
+      "death_time_h": 10.243435858964741,
+      "cPARP_frac_at_96h": 0.9987693651457265,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 2.0,
+      "tBid_at_inhibition": 187.29249450604098,
+      "cytc_released_at_inhibition_pct": 3.677636895016434e-06,
+      "death_time_h": 5.995998999749938,
+      "cPARP_frac_at_96h": 0.9998036888856714,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 2.5,
+      "tBid_at_inhibition": 396.0100761276336,
+      "cytc_released_at_inhibition_pct": 0.0004829870553946236,
+      "death_time_h": 4.370467616904226,
+      "cPARP_frac_at_96h": 0.999833299292682,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 3.0,
+      "tBid_at_inhibition": 810.8857912760092,
+      "cytc_released_at_inhibition_pct": 0.31563920901527265,
+      "death_time_h": 3.8372093023255816,
+      "cPARP_frac_at_96h": 0.9996428614958481,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "model": "Albeck2008_BIOMD0000000220",
+      "ligand_molecules": 3000.0,
+      "untreated_death_h": 3.65,
+      "inhibitor_time_h": 3.25,
+      "tBid_at_inhibition": 1170.8779634428342,
+      "cytc_released_at_inhibition_pct": 38.888913861546925,
+      "death_time_h": 3.806639159789947,
+      "cPARP_frac_at_96h": 0.9993813460132785,
+      "data_provenance": "SIMULATED"
+    }
+  ],
+  "M1": [
+    {
+      "check": "[casp8]0 = 1e-05 microM",
+      "article_value": "survival",
+      "simulated": "survival (Casp3 final 1.05e-26 microM)",
+      "match": true,
+      "rel_diff_pct": NaN
+    },
+    {
+      "check": "[casp8]0 = 0.0001 microM",
+      "article_value": "apoptosis",
+      "simulated": "apoptosis (Casp3 final 5.65e-03 microM)",
+      "match": true,
+      "rel_diff_pct": NaN
+    },
+    {
+      "check": "u_Bax at which apoptotic state disappears (saddle-node)",
+      "article_value": "0.11 s^-1",
+      "simulated": "between 0.108 and 0.109 s^-1",
+      "match": true,
+      "rel_diff_pct": 1.3636363636363649
+    },
+    {
+      "check": "Bax production at which apoptotic state disappears",
+      "article_value": "6.03e-6 microM/s",
+      "simulated": "between 5.9e-06 and 6e-06 microM/s",
+      "match": true,
+      "rel_diff_pct": 1.326699834162508
+    }
+  ],
+  "M2": {
+    "regime": "threshold",
+    "c8_threshold_uM": 5.281414778124206e-05,
+    "survivor_cytc_release_peak_pct": 14.519810045104343,
+    "survivor_c3_peak_uM": 5.794829365251564e-06,
+    "death_c3_steady_uM": 0.005654988320221842,
+    "survivor_c3_peak_pct_of_death": 0.10247287946695947,
+    "death_cytc_release_final_pct": 83.2527007953479
+  },
+  "M3": [
+    {
+      "factor_P_oBcl_2": 0.25,
+      "regime": "threshold",
+      "c8_threshold_uM": 4.3533525274036606e-05,
+      "survivor_cytc_release_peak_pct": 13.846711420017844,
+      "survivor_c3_peak_uM": 4.805711308187361e-06,
+      "death_c3_steady_uM": 0.005693215696877038,
+      "survivor_c3_peak_pct_of_death": 0.08441119332301937,
+      "death_cytc_release_final_pct": 84.25968767225525,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": 0.5,
+      "regime": "threshold",
+      "c8_threshold_uM": 4.630792114868487e-05,
+      "survivor_cytc_release_peak_pct": 14.058616076626318,
+      "survivor_c3_peak_uM": 5.102429406803784e-06,
+      "death_c3_steady_uM": 0.005680856771255543,
+      "survivor_c3_peak_pct_of_death": 0.08981795549962582,
+      "death_cytc_release_final_pct": 83.9308112601643,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": 1.0,
+      "regime": "threshold",
+      "c8_threshold_uM": 5.281414778124206e-05,
+      "survivor_cytc_release_peak_pct": 14.519810045104343,
+      "survivor_c3_peak_uM": 5.794829365251564e-06,
+      "death_c3_steady_uM": 0.005654988320221842,
+      "survivor_c3_peak_pct_of_death": 0.10247287946695947,
+      "death_cytc_release_final_pct": 83.2527007953479,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": 2.0,
+      "regime": "threshold",
+      "c8_threshold_uM": 7.13156751466651e-05,
+      "survivor_cytc_release_peak_pct": 15.62734282093171,
+      "survivor_c3_peak_uM": 7.738927476922274e-06,
+      "death_c3_steady_uM": 0.005598362257027541,
+      "survivor_c3_peak_pct_of_death": 0.13823556107337842,
+      "death_cytc_release_final_pct": 81.81473319233096,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": 4.0,
+      "regime": "threshold",
+      "c8_threshold_uM": 0.00015996503299998036,
+      "survivor_cytc_release_peak_pct": 19.002160230599564,
+      "survivor_c3_peak_uM": 1.6643116465518263e-05,
+      "death_c3_steady_uM": 0.0054630297961610185,
+      "survivor_c3_peak_pct_of_death": 0.30464993028618875,
+      "death_cytc_release_final_pct": 78.61258680804347,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": 8.0,
+      "regime": "threshold",
+      "c8_threshold_uM": 0.0017624013088066615,
+      "survivor_cytc_release_peak_pct": 32.57847735134982,
+      "survivor_c3_peak_uM": 0.0001318968691654356,
+      "death_c3_steady_uM": 0.005076950194617987,
+      "survivor_c3_peak_pct_of_death": 2.597954758454354,
+      "death_cytc_release_final_pct": 70.91559012765454,
+      "factor_P_IAP": null,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 4.097190469593425e-05,
+      "survivor_cytc_release_peak_pct": 11.657400044245358,
+      "survivor_c3_peak_uM": 5.794824677651053e-06,
+      "death_c3_steady_uM": 0.0056549883202977125,
+      "survivor_c3_peak_pct_of_death": 0.10247279657238935,
+      "death_cytc_release_final_pct": 83.25270079535852,
+      "factor_P_IAP": 0.25,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 4.544407413315965e-05,
+      "survivor_cytc_release_peak_pct": 12.762977228199235,
+      "survivor_c3_peak_uM": 5.794808688692201e-06,
+      "death_c3_steady_uM": 0.005654988320221552,
+      "survivor_c3_peak_pct_of_death": 0.1024725138329759,
+      "death_cytc_release_final_pct": 83.25270079534788,
+      "factor_P_IAP": 0.5,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 5.281414778124206e-05,
+      "survivor_cytc_release_peak_pct": 14.519810045104343,
+      "survivor_c3_peak_uM": 5.794829365251564e-06,
+      "death_c3_steady_uM": 0.005654988320221842,
+      "survivor_c3_peak_pct_of_death": 0.10247287946695947,
+      "death_cytc_release_final_pct": 83.2527007953479,
+      "factor_P_IAP": 1.0,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 6.389110451858559e-05,
+      "survivor_cytc_release_peak_pct": 17.018349971016956,
+      "survivor_c3_peak_uM": 5.794795261332875e-06,
+      "death_c3_steady_uM": 0.0056549883202359165,
+      "survivor_c3_peak_pct_of_death": 0.10247227638997362,
+      "death_cytc_release_final_pct": 83.25270079534988,
+      "factor_P_IAP": 2.0,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 7.951246896575769e-05,
+      "survivor_cytc_release_peak_pct": 20.281866499873836,
+      "survivor_c3_peak_uM": 5.794823117941249e-06,
+      "death_c3_steady_uM": 0.005654988320498058,
+      "survivor_c3_peak_pct_of_death": 0.10247276898762675,
+      "death_cytc_release_final_pct": 83.25270079538622,
+      "factor_P_IAP": 4.0,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 0.00010185445953805713,
+      "survivor_cytc_release_peak_pct": 24.49215668499283,
+      "survivor_c3_peak_uM": 5.794804453832515e-06,
+      "death_c3_steady_uM": 0.005654988320947359,
+      "survivor_c3_peak_pct_of_death": 0.10247243893267198,
+      "death_cytc_release_final_pct": 83.25270079544809,
+      "factor_P_IAP": 8.0,
+      "factor_P_oBax": null,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 0.002608955748646566,
+      "survivor_cytc_release_peak_pct": 31.492206184029435,
+      "survivor_c3_peak_uM": 0.00013966138672116216,
+      "death_c3_steady_uM": 0.002410217359269341,
+      "survivor_c3_peak_pct_of_death": 5.794555672916596,
+      "death_cytc_release_final_pct": 41.4902049065993,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 0.25,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 0.00021070979383991682,
+      "survivor_cytc_release_peak_pct": 20.235918887050396,
+      "survivor_c3_peak_uM": 2.1373694938504688e-05,
+      "death_c3_steady_uM": 0.004838955574868507,
+      "survivor_c3_peak_pct_of_death": 0.4417005820328387,
+      "death_cytc_release_final_pct": 66.96472519587245,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 0.5,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 5.281414778124206e-05,
+      "survivor_cytc_release_peak_pct": 14.519810045104343,
+      "survivor_c3_peak_uM": 5.794829365251564e-06,
+      "death_c3_steady_uM": 0.005654988320221842,
+      "survivor_c3_peak_pct_of_death": 0.10247287946695947,
+      "death_cytc_release_final_pct": 83.2527007953479,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 1.0,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 1.7125922036113732e-05,
+      "survivor_cytc_release_peak_pct": 10.998679775866949,
+      "survivor_c3_peak_uM": 1.931096524086873e-06,
+      "death_c3_steady_uM": 0.005947516422755141,
+      "survivor_c3_peak_pct_of_death": 0.03246895656645043,
+      "death_cytc_release_final_pct": 91.83936177248881,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 2.0,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 6.194418765991511e-06,
+      "survivor_cytc_release_peak_pct": 8.545657209697055,
+      "survivor_c3_peak_uM": 7.081098753466121e-07,
+      "death_c3_steady_uM": 0.006066416990829944,
+      "survivor_c3_peak_pct_of_death": 0.011672621193317207,
+      "death_cytc_release_final_pct": 96.0311919978022,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 4.0,
+      "data_provenance": "SIMULATED"
+    },
+    {
+      "factor_P_oBcl_2": null,
+      "regime": "threshold",
+      "c8_threshold_uM": 2.3791014293164954e-06,
+      "survivor_cytc_release_peak_pct": 6.735756954300243,
+      "survivor_c3_peak_uM": 2.7422484725341864e-07,
+      "death_c3_steady_uM": 0.006119095317576515,
+      "survivor_c3_peak_pct_of_death": 0.004481460624836715,
+      "death_cytc_release_final_pct": 98.0531697048586,
+      "factor_P_IAP": null,
+      "factor_P_oBax": 8.0,
+      "data_provenance": "SIMULATED"
+    }
+  ],
+  "M4": {
+    "n": 1000,
+    "regime_counts": {
+      "threshold": 546,
+      "no_death_reachable": 420,
+      "hypersensitive": 32,
+      "integration_failed": 2
+    },
+    "quantiles": {
+      "survivor_cytc_release_peak_pct": {
+        "0.01": 0.0224,
+        "0.5": 1.5198,
+        "0.9": 28.6901,
+        "0.99": 77.943,
+        "1.0": 91.4295
+      },
+      "survivor_c3_peak_pct_of_death": {
+        "0.01": 0.0,
+        "0.5": 0.0005,
+        "0.9": 1.0523,
+        "0.99": 27.3356,
+        "1.0": 72.6122
+      }
+    },
+    "sets_with_survivable_release_over_50pct": 23,
+    "sets_with_survivable_c3_over_10pct_of_death": 16
+  },
+  "runtime_s": 811.5
+}

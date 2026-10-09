@@ -1,0 +1,5 @@
+check,article_value,simulated,match,rel_diff_pct
+[casp8]0 = 1e-05 microM,survival,survival (Casp3 final 1.05e-26 microM),True,
+[casp8]0 = 0.0001 microM,apoptosis,apoptosis (Casp3 final 5.65e-03 microM),True,
+u_Bax at which apoptotic state disappears (saddle-node),0.11 s^-1,between 0.108 and 0.109 s^-1,True,1.3636363636363649
+Bax production at which apoptotic state disappears,6.03e-6 microM/s,between 5.9e-06 and 6e-06 microM/s,True,1.326699834162508
