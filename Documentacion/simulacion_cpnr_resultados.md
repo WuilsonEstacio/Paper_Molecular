@@ -349,8 +349,18 @@ Con otras versiones de scipy los valores pueden variar en los ultimos decimales.
 | `Documentacion/preregistro_GSE90959.md` | Nuevo: pre-registro del contraste con datos reales |
 | `Documentacion/articulo_CPNR_borrador.md` | Nuevo: borrador del articulo |
 
-No se borro ni sobrescribio ningun archivo previo del proyecto. Los placeholders de PySB/BioNetGen/PhysiCell
-siguen como estaban.
+No se borro ningun archivo previo del proyecto. Los placeholders de PySB/BioNetGen/PhysiCell siguen como estaban.
+
+**Preparacion para la publicacion (2026-10-09).** Antes de publicar el repositorio se sustituyeron las rutas
+absolutas locales por rutas relativas en: `src/config.py`, `research/config/pipeline_config.yaml`,
+`research/src/data_acquisition/dataset_search.py`, `research/src/evaluation/run_validation.py`,
+`research/src/literature_to_models.py`, `research/src/simulation/physicell_hooks.py`,
+`research/src/simulation/pysb_hooks.py` (ruta calculada a partir del propio archivo) y, como texto, en
+`Documentacion/analisis.md`, los catalogos CSV/XLSX de `Documentacion/` y `Articulos_libros/`, y
+`Articulos_libros/README_BIBLIOGRAFIA.md`. Ninguno de esos archivos interviene en las simulaciones ni en el
+contraste con GSE90959. Los hashes de las secciones 7.1-7.2 no cambian, y los 11 tests siguen pasando.
+No se publican los PDF con derechos de autor, los datos crudos de GEO (se descargan con
+`research/data/download_geo.py`, que verifica estos mismos SHA-256) ni los archivos de trabajo internos.
 
 ### 7.6 Fuentes consultadas
 
