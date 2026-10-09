@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usa este repositorio, por favor citelo con los metadatos de este archivo."
+title: "Paper_Molecular: punto de no retorno celular (CPNR) y anastasis en modelos mecanisticos publicados"
+type: software
+authors:
+  - family-names: "Estacio Rojas"
+    given-names: "Wuilson Adolfo"
+repository-code: "https://github.com/WuilsonEstacio/Paper_Molecular"
+url: "https://github.com/WuilsonEstacio/Paper_Molecular"
+license: MIT
+abstract: >-
+  Analisis computacional del punto de no retorno de la apoptosis y de la anastasis.
+  Simula un protocolo de estimulo transitorio y retirada en tres modelos mecanisticos
+  publicados (Legewie et al. 2006 y Albeck et al. 2008, curados en BioModels; Bagci et al. 2006,
+  no curado y verificado frente a su articulo), sin modificar constantes publicadas, e incluye
+  un contraste pre-registrado con datos transcriptomicos publicos (GEO GSE90959).
+  Contiene el borrador del articulo y un informe de resultados con trazabilidad completa.
+keywords:
+  - anastasis
+  - apoptosis
+  - point of no return
+  - MOMP
+  - XIAP
+  - Bcl-2
+  - bistability
+  - SBML
+  - systems biology
