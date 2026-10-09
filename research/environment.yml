@@ -1,0 +1,23 @@
+name: paper_molecular_research
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - requests
+  - pyyaml
+  - pyarrow
+  - pytorch
+  - pip
+  - pip:
+      - xgboost
+      - lightgbm
+      - shap
+      - openpyxl
+      - pybionetgen
+      - pysb
+      - pytest
+      - tqdm

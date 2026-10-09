@@ -1,0 +1,4 @@
+# Guardar todos los archivos byte a byte, sin convertir finales de linea,
+# para que los SHA-256 registrados en Documentacion/simulacion_cpnr_resultados.md (seccion 7)
+# coincidan en cualquier sistema operativo.
+* -text

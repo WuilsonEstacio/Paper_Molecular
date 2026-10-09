@@ -1,0 +1,46 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+*.env
+
+# --- Editores y herramientas locales ---
+.vscode/
+.idea/
+.claude/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# --- Logs y temporales ---
+/logs/
+research/logs/*
+!research/logs/.gitkeep
+*.log
+*.tmp
+*.bak
+
+# --- Articulos con derechos de autor (no redistribuibles) ---
+# Se publican los catalogos (CSV/XLSX), no los PDF de las editoriales.
+*.pdf
+
+# --- Datos publicos descargables (se obtienen con research/data/download_geo.py) ---
+research/data/raw/
+research/data/processed/
+
+# --- Archivos de trabajo internos ---
+Documentacion/_*
+Documentacion/inventario_proyecto.csv
+Documentacion Final/
+Codigos/
+
+# --- Resultado fabricado en cuarentena (ver nota en el README) ---
+research/results/FABRICATED_DO_NOT_USE_*

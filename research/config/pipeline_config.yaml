@@ -1,0 +1,20 @@
+random_seed: 42
+test_size: 0.2
+validation_size: 0.2
+group_column: study_id
+target_column: label
+feature_columns:
+  - ATP
+  - DeltaPsiM
+  - ROS
+  - Calcium
+  - MOMP
+  - CytochromeC
+  - Caspase3
+  - Caspase9
+  - DNA_damage
+  - Membrane_integrity
+  - Mitophagy
+  - Proteostasis
+  - Transcription
+output_dir: results  # relativo a research/
