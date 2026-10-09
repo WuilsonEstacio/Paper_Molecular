@@ -1,0 +1,28 @@
+﻿Tema,Papers_existentes,Papers_core,Nivel_cobertura,Necesita_busqueda
+Anastasis,22,22,buena,no
+Minority MOMP / limited mitochondrial permeabilization,1,1,baja,yes
+Cytochrome-c,0,0,ninguna,yes
+BAX/BAK/BCL2,1,1,baja,yes
+Mitochondrial membrane potential,0,0,ninguna,yes
+Mitochondrial fragmentation,0,0,ninguna,yes
+Mitophagy,4,4,parcial,no
+ROS / oxidative stress,11,7,buena,no
+ATP / bioenergetics,1,1,baja,yes
+Calcium homeostasis,6,6,buena,no
+DNA damage,12,4,parcial,no
+DNA repair,22,22,buena,no
+Membrane repair / integrity,33,33,buena,no
+Ferroptosis (incl. reversal),54,54,buena,no
+Necroptosis,40,40,buena,no
+Pyroptosis,42,42,buena,no
+Cellular senescence,2,2,baja,yes
+Partial reprogramming / OSKM,37,37,buena,no
+Ischemia/reperfusion,14,12,buena,no
+BrainEx/OrganEx,1,1,baja,yes
+Cancer anastasis,5,5,parcial,no
+Tumor recurrence,1,1,baja,yes
+Drug resistance / chemoresistance,5,4,parcial,no
+Cell fate modeling,0,0,ninguna,yes
+Single-cell transcriptomics,1,1,baja,yes
+AI virtual cells / cellular digital twins,0,0,ninguna,yes
+Computational/mathematical modeling of apoptosis,0,0,ninguna,yes
