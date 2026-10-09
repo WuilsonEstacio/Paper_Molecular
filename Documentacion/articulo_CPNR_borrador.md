@@ -236,7 +236,7 @@ A nivel descriptivo, en la recuperación temprana (R3–R6) aumentaron a la vez 
 
 ## Declaración sobre el uso de inteligencia artificial
 
-La implementación del código, la ejecución de las simulaciones, la verificación bibliográfica y la redacción de este borrador se realizaron con asistencia de un modelo de lenguaje (Claude, Anthropic), bajo la dirección de los autores. Todas las cifras proceden de código ejecutable incluido en el repositorio. Las referencias se verificaron en Europe PMC, Crossref o el texto original. Los autores deben revisar y asumir la responsabilidad del contenido final.
+El autor desarrolló la metodología, implementó el código, ejecutó las simulaciones y analizó los resultados. Se utilizó un modelo de lenguaje (Claude, Anthropic) como herramienta de apoyo en tareas de programación, revisión bibliográfica y mejora de la redacción. Todas las cifras proceden del código ejecutable incluido en el repositorio, y las referencias se contrastaron con Europe PMC, Crossref o las fuentes originales. Las decisiones metodológicas, la validación de los resultados y la responsabilidad sobre el contenido final corresponden al autor.
 
 ## Figuras
 
